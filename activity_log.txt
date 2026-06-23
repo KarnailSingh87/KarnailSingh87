@@ -398,6 +398,7 @@ Contribution update 397: 2026-04-25T00:17:35.851337
 Contribution update 398: 2026-04-25T00:17:35.884978
 Contribution update 399: 2026-04-25T00:17:35.918929
 Contribution update 400: 2026-04-25T00:17:35.952012
+Update: On 2026-06-23 - README and boost_activity.py updated for clarity (internal helper renamed, docstrings added).
 Contribution update 401: 2026-04-25T00:17:35.984870
 Contribution update 402: 2026-04-25T00:17:36.018622
 Contribution update 403: 2026-04-25T00:17:36.052240

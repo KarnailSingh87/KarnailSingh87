@@ -4,7 +4,9 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="300px">
 </p>
 
-### 💻 Passionate about building scalable applications and automating workflows.
+### 💻 Passionate about building scalable applications and automating workflows
+
+> Note: small internal changes were made to project files for maintenance and clarity on 2026-06-23.
 
 ---
 
