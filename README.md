@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🚀 Hi, I'm Harsh! | Senior Developer
 
-<!--
-**KarnailSingh87/KarnailSingh87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="300px">
+</p>
 
-Here are some ideas to get you started:
+### 💻 Passionate about building scalable applications and automating workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Note: small internal changes were made to project files for maintenance and clarity on 2026-06-23.
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh&theme=darkhub&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+### 📈 Activity Since 2023
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh&show_icons=true&theme=darkhub&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh&layout=compact&theme=darkhub&hide_border=true" alt="Top Languages" />
+</p>
+
+### 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,python,git,html,css,vscode,postman,docker,aws" />
+</p>
+
+
+### 📫 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</p>
