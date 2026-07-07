@@ -77,7 +77,7 @@ def boost_to_2023(total_commits=15000, days_back=1220, dry_run=False):
             with open("activity_log.txt", "a") as f:
                 f.write(f"Badge trigger fix {j}\n")
         else:
-            _run_cmd(["git", "checkout", "-b", branch_name])
+            _run_cmd(["git", "checkout", "-B", branch_name])
             with open("activity_log.txt", "a") as f:
                 f.write(f"Badge trigger fix {j}\n")
             _run_cmd(["git", "add", "activity_log.txt"])
