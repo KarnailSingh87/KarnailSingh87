@@ -208,55 +208,15 @@ Full Stack Developer specializing in the **MERN stack** (`MongoDB`, `Express.js`
 
 ---
 
-## 🐍 Contribution Snake — Year by Year
+## 🐍 Contribution Snake
 
-<details>
-<summary><b>2026</b></summary>
-<br>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2026-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2026.svg">
-    <img alt="GitHub Snake 2026" src="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2026.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-</details>
-
-<details>
-<summary><b>2025</b></summary>
-<br>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2025-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2025.svg">
-    <img alt="GitHub Snake 2025" src="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2025.svg">
-  </picture>
-</p>
-</details>
-
-<details>
-<summary><b>2024</b></summary>
-<br>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2024-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2024.svg">
-    <img alt="GitHub Snake 2024" src="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2024.svg">
-  </picture>
-</p>
-</details>
-
-<details>
-<summary><b>2023</b></summary>
-<br>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2023-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2023.svg">
-    <img alt="GitHub Snake 2023" src="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2023.svg">
-  </picture>
-</p>
-</details>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=KarnailSingh87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Karnail's GitHub Stats" width="48%">
