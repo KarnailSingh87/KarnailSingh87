@@ -169,25 +169,94 @@ Full Stack Developer specializing in the **MERN stack** (`MongoDB`, `Express.js`
 
 ## 📜 Certifications & Honors
 
-- 🏆 **AWS Cloud Essentials** — Amazon Web Services
-- 🏆 **Cloud Security (AWS)** — Amazon Web Services
-- 🏆 **OpenAI GPT-3 for Developers** — Infosys Springboard
-- 🏆 **Introduction to Artificial Intelligence** — Infosys Springboard
-- 🏆 **Cybersecurity Analyst** — Tata Forage
-- 🏆 **Cybersecurity Job Simulation** — Mastercard Forage
-- 🏆 **Data Engineering & Big Data** — GUVI
+<table>
+  <tr>
+    <td width="28%"><strong>Amazon Web Services</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-Cloud_Essentials-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Essentials">
+      <img src="https://img.shields.io/badge/AWS-Cloud_Security-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Security">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>IBM & Microsoft</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/IBM-Watsonx_AI_%26_Cloud_Computing-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM Watsonx">
+      <img src="https://img.shields.io/badge/Microsoft-AICTE_Cloud_Virtual_Internship-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft AICTE">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>OpenAI & Infosys</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-GPT--3_for_Developers-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI GPT-3">
+      <img src="https://img.shields.io/badge/Infosys-Intro_to_AI-007CC3?style=flat-square&logo=infosys&logoColor=white" alt="Infosys Intro to AI">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tata & Mastercard</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Mastercard-Cybersecurity_Simulation-EB001B?style=flat-square&logo=mastercard&logoColor=white" alt="Mastercard Cybersecurity">
+      <img src="https://img.shields.io/badge/Tata_Forage-Cybersecurity_Analyst-005A9C?style=flat-square&logo=tata&logoColor=white" alt="Tata Forage">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>GUVI Geek Networks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/GUVI-Data_Engineering_%26_Big_Data-008080?style=flat-square&logo=apache-spark&logoColor=white" alt="GUVI Big Data">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 Contribution Graph & Activity
+## 🐍 Contribution Snake — Year by Year
 
+<details>
+<summary><b>2026</b></summary>
+<br>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2026-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2026.svg">
+    <img alt="GitHub Snake 2026" src="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2026.svg">
   </picture>
 </p>
+</details>
+
+<details>
+<summary><b>2025</b></summary>
+<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2025-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2025.svg">
+    <img alt="GitHub Snake 2025" src="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2025.svg">
+  </picture>
+</p>
+</details>
+
+<details>
+<summary><b>2024</b></summary>
+<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2024-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2024.svg">
+    <img alt="GitHub Snake 2024" src="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2024.svg">
+  </picture>
+</p>
+</details>
+
+<details>
+<summary><b>2023</b></summary>
+<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2023-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2023.svg">
+    <img alt="GitHub Snake 2023" src="https://raw.githubusercontent.com/KarnailSingh87/KarnailSingh87/output/snake-2023.svg">
+  </picture>
+</p>
+</details>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=KarnailSingh87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Karnail's GitHub Stats" width="48%">
