@@ -225,7 +225,7 @@ Full Stack Developer specializing in the **MERN stack** (`MongoDB`, `Express.js`
 
 <p align="center">
   <a href="https://github.com/KarnailSingh87">
-    <img src="https://streak-stats.demolab.com/?user=KarnailSingh87&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+    <img src="assets/github-streak-stats-tokyonight.svg" alt="GitHub Streak">
   </a>
 </p>
 

@@ -26,6 +26,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Fetch streak stats SVGs
+      - name: Fetch Streak Stats SVGs
+        run: |
+          mkdir -p dist
+          curl -s --retry 3 --retry-delay 5 -m 30 "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true" -o dist/github-streak-stats-tokyonight.svg || true
+          curl -s --retry 3 --retry-delay 5 -m 30 "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=dark&hide_border=true" -o dist/github-streak-stats-dark.svg || true
+
       # Push the SVGs to the output branch
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

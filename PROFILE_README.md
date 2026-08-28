@@ -75,7 +75,7 @@
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KarnailSingh87&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](assets/github-streak-stats-dark.svg)](https://github.com/KarnailSingh87)
 
 ---
 
